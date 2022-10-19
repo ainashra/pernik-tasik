@@ -1,0 +1,30 @@
+  .celana {
+    background-color: pink;
+  }
+  #baju {
+    background-color: violet;
+  }
+  .boneka {
+    background-color: orange;
+  }
+  #penghapus {
+    background-color: lightblue;
+  }
+  .buku {
+    background-color: chocolate;
+  }
+  .pensil {
+    background-color: lightgreen;
+  }
+  
+  #love {
+       background-color: red;
+  }
+  
+  #kamu {
+    background-color: aqua;
+    width: 850px;
+    border: 25px solid navy;
+    padding: 50px;
+    margin: 5px;
+  }
